@@ -133,7 +133,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
 ![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
 
-# İşlem bu kadardı.. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
+# İşlem bu kadardı.. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz <3 @enzifiri
 </details>
 
    
